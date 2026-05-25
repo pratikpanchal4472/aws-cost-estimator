@@ -1,0 +1,10 @@
+{
+  "extends": "skybridge/tsconfig",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src", ".skybridge/**/*.d.ts"]
+}
