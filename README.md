@@ -2,9 +2,11 @@
 
 A [ChatGPT MCP App](https://github.com/modelcontextprotocol/ext-apps) built with [Skybridge](https://docs.skybridge.tech) that estimates monthly AWS costs for common architectures. Describe your stack in natural language — ChatGPT calls the `estimate_architecture` tool and renders an interactive cost breakdown view.
 
-![AWS Cost Estimator](https://github.com/user-attachments/assets/85f7e345-3ff2-4318-a6d0-7d27fc52d25b)
+## Claude Connector
+https://github.com/user-attachments/assets/85f7e345-3ff2-4318-a6d0-7d27fc52d25b
 
-![Cost Estimator Playground](https://github.com/user-attachments/assets/0a52f2c9-7da3-4c2b-9ec9-feff6eeb78e4)
+## Cost Estimator Playground 
+https://github.com/user-attachments/assets/0a52f2c9-7da3-4c2b-9ec9-feff6eeb78e4
 
 ## Features
 
